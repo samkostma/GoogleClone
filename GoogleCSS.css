@@ -1,0 +1,117 @@
+body{
+    font-family: arial;
+    text-align: center
+}
+#header {
+    margin: 17px 19px 0 0;
+    height: 80px;
+}
+.signin{
+    color: white;
+    text-decoration: none;
+    background-color: #4285f4;
+    width: 62px;
+    height: 20px;
+    float: right;
+    margin-top: -3px;
+    font-size: 12px;
+    padding-top: 7px;
+}
+.signin:hover{
+    text-decoration: underline
+}
+.h {
+    
+    float: right;    
+    display: inline;
+}
+.toptions {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    margin-right: 5px;
+    padding-right: 10px;
+}
+li {
+    text-align: center;
+    float:right;
+}
+li a img {
+    height: 15px;
+    width: 15px;
+    margin-top: 3px;
+    margin-right: 18px;
+}
+#logo{
+    margin-top: 75px;
+    height: 85px;
+    width: 240px;
+}
+form div input {
+    width: 513px;
+    height: 20px;
+    margin-top: 19px;
+    margin-left: -6px;
+    border: 1px #e5e5e5 transparent;
+}
+.mic{
+    position: absolute;
+    height: 20px;
+    margin-top: 22px;
+    margin-left: 489px;
+}
+.search{
+    height: 26px;
+    width: 89px;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 14px;
+    color: #444;
+    margin-left: -3px;
+    background-color: #F5F5F5;
+}
+.lucky{
+    height: 26px;
+    width: 101px;
+    font-weight: bold;
+    font-size: 10px;
+    margin-top: 14px;
+    color: #444;
+    margin-left: 12px;
+    background-color: #F5F5F5;
+}
+form input{
+    border: 1px solid #D8D8D8;
+}
+#footer {
+    height: 35px;
+    background-color: #F5F5F5; 
+    border-top: 1px solid #D8D8D8;
+    margin-top: 300px;
+    position: absolute;
+    width: 100%;
+    margin-left: -10px;
+}
+#leftfooter{
+    float: left;
+    margin-left: 29px;
+    text-decoration: none; 
+    color: #D8D8D8;
+    margin-top: 8px;
+}
+#rightfooter {
+    float: right;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+#leftfooter a, #rightfooter a{
+    text-decoration: none; 
+    color: #666;
+    font-size: 12px;
+}
+#rightfooter a {
+    margin-left: 25px
+}
+#leftfooter a {
+    margin-right: 24px;
+}
